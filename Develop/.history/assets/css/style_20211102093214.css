@@ -1,10 +1,3 @@
-:root {
-    --primary-font: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    --secondary-font: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-     
-
-}
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -31,7 +24,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -91,11 +84,6 @@ p {
     color: #ffffff;
 }
 
-.benefits div {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -132,10 +120,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-img {
-    max-height: 200px;
 }
 
 .search-engine-optimization img {
