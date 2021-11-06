@@ -1,10 +1,12 @@
 :root {
     --primary-font: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     --secondary-font: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    --white: #ffffff;
+    --off-white: #d9dcd6;
     --blue-1: #2a607c;
     --blue-2: #2589bd;
     --blue-3: #0072bb;
-    --off-white: #d9dcd6;
+
 
 }
 
@@ -22,7 +24,7 @@ body {
     padding: 20px;
     font-family: var(--primary-font);
     background-color: var(--blue-1);
-    color: #ffffff;
+    color: var(--white);
 }
 
 .header h1 {
@@ -48,7 +50,7 @@ li {
 }
 
 a {
-    color: #ffffff;
+    color: var(--white);
     text-decoration: none;
 }
 
@@ -91,12 +93,12 @@ p {
     font-family: var(--secondary-font);
     background-color: var(--blue-2);
     margin-bottom: 32px;
-    color: #ffffff;
+    color: var(--white);
 }
 
 .benefits div {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: var(--white);
 }
 
 .benefits h3 {
@@ -110,26 +112,66 @@ p {
     max-width: 150px;
 }
 
-.content div {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: var(--secondary-font);
     background-color: var(--blue-3);
-    color: #ffffff;
+    color: var(--white);
 }
 
-.content div img {
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: var(--secondary-font);
+    background-color: var(--blue-3);
+    color: var(--white);
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: var(--secondary-font);
+    background-color: var(--blue-3);
+    color: var(--white);
+}
+
+.benefits img {
     max-height: 200px;
 }
 
-.content div h2 {
-      margin-bottom: 20px;
-    font-size: 36px;  
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .seo {
-    color: #ffffff;
+    color: #d9dcd6;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .footer {

@@ -119,17 +119,39 @@ p {
     color: #ffffff;
 }
 
-.content div img {
+.benefits img {
     max-height: 200px;
 }
 
-.content div h2 {
-      margin-bottom: 20px;
-    font-size: 36px;  
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .seo {
     color: #ffffff;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .footer {
