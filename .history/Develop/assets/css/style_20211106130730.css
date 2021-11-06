@@ -5,6 +5,7 @@
     --blue-2: #2589bd;
     --blue-3: #0072bb;
     --off-white: #d9dcd6;
+
 }
 
 * {
@@ -21,7 +22,7 @@ body {
     padding: 20px;
     font-family: var(--primary-font);
     background-color: var(--blue-1);
-    color: white;
+    color: #ffffff;
 }
 
 .header h1 {
@@ -47,7 +48,7 @@ li {
 }
 
 a {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -99,12 +100,12 @@ p {
     font-family: var(--secondary-font);
     background-color: var(--blue-2);
     margin-bottom: 32px;
-    color: white;
+    color: #ffffff;
 }
 
 .benefits div {
     margin-bottom: 32px;
-    color: white;
+    color: #ffffff;
 }
 
 .benefits h3 {
@@ -124,11 +125,11 @@ p {
     height: 300px;
     font-family: var(--secondary-font);
     background-color: var(--blue-3);
-    color: white;
+    color: #ffffff;
 }
 
 .seo {
-    color: white;
+    color: #ffffff;
 }
 
 .footer {
