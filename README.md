@@ -15,7 +15,7 @@ I have refactored the HTML and CSS of this website to make it easier to read and
  
  * http://brenhamp.github.io/Horiseon
 
-For a screenshot of what the site should look like in a browser, see ./assets/images/horiseon-site-screenshot.png
+For a screenshot of what the site should look like in a browser, see Develop/assets/images/horiseon-site-screenshot.png
 
 If you have questions, comments, or concerns, I can be reached at brenhampozzi@yahoo.com
 
