@@ -13,7 +13,7 @@ I have refactored the HTML and CSS of this website to make it easier to read and
 
 ## Live Site Link
  
- * http://brenhamp.github.io/Horiseon
+ * http://brenhamp.github.io/code-refactor
 
 For a screenshot of what the site should look like in a browser, see Develop/assets/images/horiseon-site-screenshot.png
 
