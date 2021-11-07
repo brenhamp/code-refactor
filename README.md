@@ -9,6 +9,7 @@ I have refactored the HTML and CSS of this website to make it easier to read and
 * Restored functionality to the navigation bar. "Search Engine Optimization" in the header was incorrectly assigned.
 * Renamed some divs into sections for better comprehension and compatibility with site readers.
 * Changed "website" to "Horiseon" in title.
+* Added image alt text.
 * Cleaned up code spacing.
 
 ## Live Site Link
